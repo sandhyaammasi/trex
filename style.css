@@ -2,6 +2,9 @@ html, body {
   margin: 0;
   padding: 0;
 }
-canvas {
-  display: block;
+canvas { 
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 200px;
+  border: 2px solid black;
 }
